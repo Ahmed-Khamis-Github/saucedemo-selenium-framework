@@ -1,0 +1,19 @@
+{
+  "ValidUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "Product": {
+    "title": "Sauce Labs Backpack",
+    "description": "uncompromising style",
+    "price": "29.99"
+  },
+  "PageData": {
+    "pageTitle": "Products"
+  },
+  "checkOutData": {
+    "fnName": "Ahmed" ,
+    "lnName": "Ali" ,
+    "postalCode": "22551"
+  }
+}

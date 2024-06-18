@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Saucedemo Regression Suite">
+    <test name="Regression Test" preserve-order="true">
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.SortTest"/>
+            <class name="tests.ProductReviewTest"/>
+            <class name="tests.AddToCartTest"/>
+            <class name="tests.CheckoutTest"/>
+
+
+        </classes>
+    </test> <!-- Test -->
+
+
+</suite> <!-- Suite -->
